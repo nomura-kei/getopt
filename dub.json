@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Nomura Kei"
+	],
+	"copyright": "Copyright © 2021, Nomura Kei",
+	"description": "analysis command option",
+	"license": "MIT",
+	"name": "getopt"
+}
